@@ -1,13 +1,11 @@
 # Contributors
 
-<img src = "../images/contributors/ClaireWyatt.jgpeg">
-
 
 ```{image} images/contributors/ClaireWyatt.jpeg
 :alt: Claire Wyatt
 :width: 100px
 ```
-Claire Wyatt
+[Claire Wyatt](https://www.fz-juelich.de/profile/wyatt_cl)
 
 
 
@@ -15,7 +13,7 @@ Claire Wyatt
 :alt: Jannetta Steyn
 :width: 100px
 ```
-Jannetta Steyn
+[Jannetta Steyn](https://www.jannetta.com)
 
 ```{image} images/contributors/SaranjeetKaur.jpeg
 :alt: Saranjeet Kaur
