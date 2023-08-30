@@ -1,15 +1,16 @@
 # Contributors
 
-| | |
-|---|---|
-|```{image} images/contributors/ClaireWyatt.jpeg
+
+<table>
+<tr><td>
+```{image} images/contributors/ClaireWyatt.jpeg
 :alt: Claire Wyatt
 :width: 100px
 ```
-Claire Wyatt|
-asdf
-|
-
+Claire Wyatt
+</td><td>
+</td></tr>
+</table>
 
 ```{image} images/contributors/JannettaSteyn.png
 :alt: Jannetta Steyn
