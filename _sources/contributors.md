@@ -3,10 +3,7 @@
 
 <table>
 <tr><td>
-```{image} images/contributors/ClaireWyatt.jpeg
-:alt: Claire Wyatt
-:width: 100px
-```
+<img src="images/contributors/ClaireWyatt.jpeg" alt="Claire Wyatt" width=100px>
 Claire Wyatt
 </td><td>
 </td></tr>
