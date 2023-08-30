@@ -2,26 +2,26 @@
 
 ```{image} images/contributors/ClaireWyatt.jpeg
 :alt: Claire Wyatt
-:width: 200px
+:width: 100px
 ```
 Claire Wyatt
 
 
 ```{image} images/contributors/JannettaSteyn.png
 :alt: Jannetta Steyn
-:width: 200px
+:width: 100px
 ```
 Jannetta Steyn
 
 ```{image} images/contributors/SaranjeetKaur.jpeg
 :alt: Saranjeet Kaur
-:width: 200px
+:width: 100px
 ```
 Saranjeet Kaur
 
 
 ```{image} images/contributors/AngelDeVicente.jpeg
 :alt: Angel de Vicente
-:width: 200px
+:width: 100px
 ```
 Angel de Vicente
