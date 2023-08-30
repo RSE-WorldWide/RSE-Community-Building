@@ -1,13 +1,15 @@
 # Contributors
 
+<img src = "../images/contributors/ClaireWyatt.jgpeg">
 
-<table>
-<tr><td>
-<img src="images/contributors/ClaireWyatt.jpeg" alt="Claire Wyatt" width=100px>
+
+```{image} images/contributors/ClaireWyatt.jpeg
+:alt: Claire Wyatt
+:width: 100px
+```
 Claire Wyatt
-</td><td>
-</td></tr>
-</table>
+
+
 
 ```{image} images/contributors/JannettaSteyn.png
 :alt: Jannetta Steyn
