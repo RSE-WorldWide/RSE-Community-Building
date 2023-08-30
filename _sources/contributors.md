@@ -1,6 +1,4 @@
 # Contributors
 
-- Claire Wyatt
-- Jannetta Steyn
-- Saranjeet Kaur
-- Angel de Vicente
+|-|-|-|-|
+|Claire Wyatt| Jannetta Steyn| Saranjeet Kaur|Angel de Vicente|
