@@ -19,7 +19,7 @@
 :alt: Saranjeet Kaur
 :width: 100px
 ```
-Saranjeet Kaur
+[Saranjeet Kaur](https://saranjeetkaur.github.io/About-Me/)
 
 
 ```{image} images/contributors/AngelDeVicente.jpeg
